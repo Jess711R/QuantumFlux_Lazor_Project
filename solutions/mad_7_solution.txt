@@ -1,0 +1,12 @@
+Solution for mad_7
+==================================================
+
+Solved in 0.395 seconds
+
+Block placements:
+  Reflect block at position (5, 1)
+  Reflect block at position (1, 5)
+  Reflect block at position (7, 3)
+  Reflect block at position (7, 7)
+  Reflect block at position (5, 9)
+  Reflect block at position (5, 5)

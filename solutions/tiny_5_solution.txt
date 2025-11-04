@@ -1,0 +1,10 @@
+Solution for tiny_5
+==================================================
+
+Solved in 0.050 seconds
+
+Block placements:
+  Refract block at position (3, 5)
+  Reflect block at position (1, 1)
+  Reflect block at position (5, 1)
+  Reflect block at position (1, 5)

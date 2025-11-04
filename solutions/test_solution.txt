@@ -1,0 +1,12 @@
+Solution for test
+==================================================
+
+Solved in 1.106 seconds
+
+Block placements:
+  Reflect block at position (3, 5)
+  Reflect block at position (5, 9)
+  Reflect block at position (5, 7)
+  Opaque block at position (5, 5)
+  Opaque block at position (1, 9)
+  Opaque block at position (1, 1)

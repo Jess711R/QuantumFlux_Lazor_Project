@@ -1,0 +1,12 @@
+Solution for numbered_6
+==================================================
+
+Solved in 1.512 seconds
+
+Block placements:
+  Reflect block at position (1, 7)
+  Reflect block at position (1, 5)
+  Opaque block at position (1, 9)
+  Reflect block at position (1, 3)
+  Reflect block at position (5, 5)
+  Reflect block at position (1, 1)

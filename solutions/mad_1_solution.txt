@@ -1,0 +1,9 @@
+Solution for mad_1
+==================================================
+
+Solved in 0.018 seconds
+
+Block placements:
+  Refract block at position (3, 5)
+  Reflect block at position (3, 3)
+  Reflect block at position (7, 3)

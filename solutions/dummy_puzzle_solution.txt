@@ -1,0 +1,7 @@
+Solution for dummy_puzzle
+==================================================
+
+Solved in 0.123 seconds
+
+Block placements:
+  Reflect block at position (1, 1)

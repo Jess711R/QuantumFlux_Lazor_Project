@@ -1,0 +1,14 @@
+Solution for yarn_5
+==================================================
+
+Solved in 0.738 seconds
+
+Block placements:
+  Reflect block at position (9, 5)
+  Reflect block at position (9, 9)
+  Reflect block at position (1, 5)
+  Reflect block at position (1, 9)
+  Reflect block at position (3, 11)
+  Reflect block at position (7, 11)
+  Reflect block at position (5, 7)
+  Reflect block at position (3, 3)
